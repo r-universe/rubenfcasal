@@ -11,3 +11,6 @@
 [submodule "npsp"]
 	path = npsp
 	url = https://github.com/rubenfcasal/npsp
+[submodule "scimetr"]
+	path = scimetr
+	url = https://github.com/rubenfcasal/scimetr
