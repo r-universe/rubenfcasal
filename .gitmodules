@@ -5,6 +5,9 @@
 [submodule "baggingbwsel"]
 	path = baggingbwsel
 	url = https://github.com/rubenfcasal/baggingbwsel
+[submodule "legendplot"]
+	path = legendplot
+	url = https://github.com/rubenfcasal/legendplot
 [submodule "mpae"]
 	path = mpae
 	url = https://github.com/rubenfcasal/mpae
